@@ -1,7 +1,8 @@
+*.git
 *.dict
 *.pickle
 *.tuple
-.data/
+*.data/
 .vscode/
 __pycache__/
 .ipynb_checkpoints/
